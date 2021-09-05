@@ -1,0 +1,49 @@
+li{
+    list-style: none;
+    
+}
+.head{
+    background-color:blueviolet;
+    height: 90px;
+}
+.head-logo{
+    font-size: 45px;
+    float: left;
+    padding : 20px 40px;
+}
+.head-list li{
+    float :left;
+    padding : 36px 20px 10px 15px ;
+}
+.Main{
+    background-color:skyblue;
+    height: 600px;
+    padding : 50px 40px;
+}
+.copy-container h1{
+    font-size: 100px;
+    color:black;
+}
+.copy-container h2{
+    font-size: 50px;
+    color :navy;
+}
+.copy-container span{
+    color: red;
+}
+.foot{
+    background: chartreuse;
+    color: black;
+    height: 120px;
+    padding: 40px;
+}
+.foot-logo{
+    font-size: 45px;
+    float :left;
+}
+.foot-list{
+    float: right;
+}
+.foot-list li{
+    padding-bottom: 20px;
+}
